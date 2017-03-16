@@ -14,6 +14,7 @@ Este manual describe la utilización del sistema de turnos en su versión MVP.  
 
 
 <a id="entidades" />
+
 ## 1. Descripción de entidades del sistema
 
 ●	Profesional: son los médicos, enfermeras o cualquier persona que brinde un servicio para el cual se necesite asignar un turno
